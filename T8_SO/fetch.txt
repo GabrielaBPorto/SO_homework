@@ -1,0 +1,67 @@
+main: inicio
+main: 0
+    Pang: inicio
+    Pang: 0
+        Peng: inicio
+        Peng: 0
+            Ping: inicio
+            Ping: 0
+                Pong: inicio
+                Pong: 0
+                    Pung: inicio
+                    Pung: 0
+main: 1
+    Pang: 1
+        Peng: 1
+            Ping: 1
+                Pong: 1
+                    Pung: 1
+main: esperando Pang...
+    Pang: 2
+        Peng: 2
+            Ping: 2
+                Pong: 2
+                    Pung: 2
+    Pang: 3
+        Peng: 3
+            Ping: 3
+                Pong: 3
+                    Pung: 3
+    Pang: fim
+Task 2 exit: running time 18948 ms, cpu time  3459 ms, 173 activations
+        Peng: 4
+            Ping: 4
+                Pong: 4
+main: Pang acabou, esperando Peng...
+                    Pung: 4
+        Peng: 5
+            Ping: 5
+                Pong: 5
+                    Pung: 5
+        Peng: fim
+Task 3 exit: running time 25917 ms, cpu time  5189 ms, 260 activations
+            Ping: 6
+                Pong: 6
+                    Pung: 6
+main: Peng acabou, esperando Ping...
+            Ping: 7
+                Pong: 7
+                    Pung: 7
+            Ping: fim
+Task 4 exit: running time 31084 ms, cpu time  6907 ms, 346 activations
+                Pong: 8
+                    Pung: 8
+main: Ping acabou, esperando Pong...
+                Pong: 9
+                    Pung: 9
+                Pong: fim
+Task 5 exit: running time 34542 ms, cpu time  8638 ms, 432 activations
+main: Pong acabou, esperando Pung...
+                    Pung: 10
+                    Pung: 11
+                    Pung: fim
+Task 6 exit: running time 36291 ms, cpu time 10369 ms, 519 activations
+main: Pung acabou
+main: fim
+Task 0 exit: running time 36291 ms, cpu time  1729 ms, 92 activations
+Task 1 exit: running time 36291 ms, cpu time     0 ms, 1822 activations

@@ -1,0 +1,26 @@
+main: inicio em    1 ms
+    Pang: inicio em   40 ms
+        Peng: inicio em   60 ms
+            Ping: inicio em   80 ms
+                Pong: inicio em  100 ms
+                    Pung: inicio em  120 ms
+main: fim    em 13466 ms
+Task 0 exit: execution time 13466 ms, processor time 2266 ms, 113 activations
+A tarefa que eu estou tentando remover é 0
+    Pang: fim    em 22169 ms
+Task 1 exit: execution time 22169 ms, processor time 3983 ms, 200 activations
+A tarefa que eu estou tentando remover é 1
+        Peng: fim    em 22176 ms
+Task 2 exit: execution time 22176 ms, processor time 3987 ms, 200 activations
+A tarefa que eu estou tentando remover é 2
+            Ping: fim    em 22178 ms
+Task 3 exit: execution time 22178 ms, processor time 3982 ms, 200 activations
+A tarefa que eu estou tentando remover é 3
+                Pong: fim    em 22191 ms
+Task 4 exit: execution time 22191 ms, processor time 3993 ms, 200 activations
+A tarefa que eu estou tentando remover é 4
+                    Pung: fim    em 22199 ms
+Task 5 exit: execution time 22199 ms, processor time 3988 ms, 200 activations
+A tarefa que eu estou tentando remover é 5
+Task 1 exit: execution time 22199 ms, processor time    0 ms, 1114 activations
+A tarefa que eu estou tentando remover é 1
